@@ -1,0 +1,95 @@
+
+ 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CMHS Lead Teacher Resources</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+        header {
+            background-color: #004080;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: space-around;
+            background-color: #333;
+        }
+        nav a {
+            color: white;
+            padding: 14px 20px;
+            text-decoration: none;
+            text-align: center;
+        }
+        nav a:hover {
+            background-color: #ddd;
+            color: black;
+        }
+        .container {
+            padding: 20px;
+        }
+        footer {
+            background-color: #004080;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>CMHS Lead Teacher Resources</h1>
+    </header>
+    <nav>
+        <a href="#welcome">Welcome</a>
+        <a href="#dates">Important Dates</a>
+        <a href="#resources">Resources</a>
+        <a href="#contact">Contact Information</a>
+    </nav>
+    <div class="container">
+        <section id="welcome">
+            <h2>Welcome Message</h2>
+            <p>Thank you for enrolling your daughter in CMHS for the 5784 school year. We are looking forward to spending this year with your daughter and helping her develop her chassidishkeit, middos, and academic experience. Please use the information within to familiarize yourself with the procedures for the coming year and the expectations we have of our students. If a parent has concerns, Mrs. Blumstein can be contacted during school hours at (248) 547-0623 or via email at Mrsblumstein@cmhighschool.com.</p>
+        </section>
+        <section id="dates">
+            <h2>Important Dates</h2>
+            <p><strong>First Day of Classes:</strong> September 6, 2023</p>
+            <p><strong>Rosh Hashana Break:</strong> September 15, 2023 - September 19, 2023</p>
+            <p><strong>Pesach Break:</strong> April 10, 2024 - May 2, 2024</p>
+            <p><strong>Graduation:</strong> June 9, 2024</p>
+            <!-- Add more important dates as needed -->
+        </section>
+        <section id="resources">
+            <h2>Resources</h2>
+            <ul>
+                <li><a href="https://www.cmhighschool.com">CMHS Official Website</a></li>
+                <li><a href="mailto:secretary@cmhighschool.com">Email Secretary</a></li>
+                <li>Financial Administration: <a href="mailto:register.cmhsdetroit@gmail.com">Rabbi Vorst</a></li>
+                <!-- Add more resources as needed -->
+            </ul>
+        </section>
+        <section id="contact">
+            <h2>Contact Information</h2>
+            <p><strong>Chaya Mushka High School</strong></p>
+            <p>14601 Lincoln Street, Oak Park, MI 48237</p>
+            <p><strong>Director:</strong> Rabbi Shemtov, <a href="mailto:levi@friendshipcircle.org">levi@friendshipcircle.org</a></p>
+            <p><strong>Financial Administration:</strong> Rabbi Vorst, <a href="mailto:register.cmhsdetroit@gmail.com">register.cmhsdetroit@gmail.com</a></p>
+        </section>
+    </div>
+    <footer>
+        <p>&copy; 2024 CMHS. All Rights Reserved.</p>
+    </footer>
+</body>
+</html>
